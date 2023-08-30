@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/victorassis/glfw/build",
+  "command": "/usr/bin/g++  -I/home/victorassis/glfw/build -I/home/victorassis/glfw -g -o CMakeFiles/glfw_project.dir/src/main.cpp.o -c /home/victorassis/glfw/src/main.cpp",
+  "file": "/home/victorassis/glfw/src/main.cpp",
+  "output": "CMakeFiles/glfw_project.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/victorassis/glfw/build",
+  "command": "/usr/bin/gcc  -I/home/victorassis/glfw/build -I/home/victorassis/glfw -g -o CMakeFiles/glfw_project.dir/src/glad.c.o -c /home/victorassis/glfw/src/glad.c",
+  "file": "/home/victorassis/glfw/src/glad.c",
+  "output": "CMakeFiles/glfw_project.dir/src/glad.c.o"
+}
+]

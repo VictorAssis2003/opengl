@@ -1,0 +1,3 @@
+/home/victorassis/glfw/build/CMakeFiles/glfw_project.dir
+/home/victorassis/glfw/build/CMakeFiles/edit_cache.dir
+/home/victorassis/glfw/build/CMakeFiles/rebuild_cache.dir

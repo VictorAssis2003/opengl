@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/glfw_project.dir/src/main.cpp.o CMakeFiles/glfw_project.dir/src/glad.c.o -o glfw_project  -lglfw 
